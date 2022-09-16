@@ -1,7 +1,11 @@
 # RL4TurtleBot3Navigation
-> Use deep RL algorithms (SAC, DQN, QRDQN) to learn how turtlebot3 navigates in obstacle environments.
+> Use deep RL algorithms (SAC, DQN) to learn how turtlebot3 navigates in obstacle environments.
 
-> ![demo](https://media.giphy.com/media/G4zpOd4PjVqCfPSyN8/giphy.gif)
+SAC with no obstacle
+![sac](https://media.giphy.com/media/fNDva8nOgmIjsdZiEw/giphy.gif)
+
+DQN with static obstacle
+![dqn](https://media.giphy.com/media/G4zpOd4PjVqCfPSyN8/giphy.gif)
 
 ## Table of Contents
 * [Overview](#overview)
