@@ -1,11 +1,11 @@
 # RL4TurtleBot3Navigation
 > Use deep RL algorithms (SAC, DQN) to learn how turtlebot3 navigates in obstacle environments.
 
-SAC performance continuous action in no obstacle environment:
+SAC agent navigates in non-obstacle environment:
 
 ![sac](https://media.giphy.com/media/fNDva8nOgmIjsdZiEw/giphy.gif)
 
-DQN performance discrete action in static obstacle environment:
+DQN agents navigates in static obstacle environment:
 
 ![dqn](https://media.giphy.com/media/G4zpOd4PjVqCfPSyN8/giphy.gif)
 
