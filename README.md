@@ -40,6 +40,18 @@ Therefore, state dims = 2 * 24(lidar) + 2 * 1 (linear velocity) + 2 * 1(angular 
 * SAC models:
 ![sac](./_readme/sac.png)
 
+4. Rewards:
+* Primary rewards:
+   * Target reward
+   * Collision reward
+     
+* Secondary rewards: 
+   * Heading & speed
+   * Sharp turn
+   * Continuity 
+   * Timeout
+
+
 ## Requirements
 1. Ubuntu 20.04 LTS.
 2. Python 3.
